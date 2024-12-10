@@ -13,7 +13,6 @@ else:
     print("Please type a digit.")
     quit()
 
-
 random_number = random.randrange(0, top_of_range)
 
 guesses = 0
